@@ -3,8 +3,8 @@ Use computational tools to construct dynamical models of the brain, and inspire 
 
 • Modeling individual neurons and their computational properties
 
+• Machine Learning process inspired by neural networks
+
 • The function and circuitry of head direction cells
 
 • Neural dynamics underlying song production in songbirds
-
-• Dimensionality reduction techniques for neural data analysis
